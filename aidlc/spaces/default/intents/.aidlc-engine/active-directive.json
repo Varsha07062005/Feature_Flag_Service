@@ -1,0 +1,32 @@
+{
+  "version": 2,
+  "revision": 2,
+  "project_sha256": "33a9af3efdfeae5d4d22f11cf9b98f538227799e2d190887570b57305259b2b6",
+  "intent_uuid": null,
+  "state_present": false,
+  "state_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "cursor_harness": "copilot",
+  "owner_session": "158e8aab-9cfe-47d7-bda5-7dd5a5559cbd",
+  "owner_epoch": 1,
+  "context_epoch": 0,
+  "kind": "print",
+  "stage": "coordination",
+  "delivery": "superseded",
+  "needs_rehydrate": true,
+  "active_attempt": {
+    "id": "1c32d82b-770a-4d78-9e49-c0d1ce08c07d",
+    "command_kind": "next",
+    "command_sha256": "5b0e3ba3e0e381d55719ec236b1a2111663e31402d5ff638b956ebae76a2af29",
+    "issued_state_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "session_id": "158e8aab-9cfe-47d7-bda5-7dd5a5559cbd",
+    "owner_epoch": 1,
+    "context_epoch": 0,
+    "claim_revision": 1,
+    "status": "settled"
+  },
+  "event_sequence": 1,
+  "human_sequence": 0,
+  "engine_sequence": 1,
+  "conversation_sequence": 0,
+  "stop_count": 0
+}

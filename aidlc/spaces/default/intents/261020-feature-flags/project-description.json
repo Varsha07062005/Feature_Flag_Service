@@ -1,0 +1,1 @@
+"-depth minimal -test-strategy minimal -review advisory -guard-policy off"
